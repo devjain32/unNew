@@ -1,0 +1,14 @@
+/* 
+  ATCLocalizableReviews.strings
+  StoreLocator
+
+  Created by Duy Bui on 12/7/19.
+  Copyright © 2019 Instamobile. All rights reserved.
+*/
+"Add a Review" = "إضافة إلى استعراض";
+"Add review" = "إضافة مراجعة";
+"You cannot submit an empty review." = "لا يمكنك إرسال مراجعة فارغة.";
+"Please describe your review in more details. Your review needs to contain at least 50 letters." = "يرجى وصف رأيك بمزيد من التفاصيل. يجب أن تحتوي مراجعتك على 50 حرفًا على الأقل.";
+"You can't submit a review, unless you have a complete profile. Please make sure you uploaded a profile picture, and you specified your full name." = "لا يمكنك إرسال مراجعة ما لم يكن لديك ملف تعريف كامل. يرجى التأكد من تحميل صورة للملف الشخصي ، وتحديد اسمك الكامل.";
+"Posting" = "نشر";
+"There are no reviews yet." = "لا توجد توصيات بعد.";
